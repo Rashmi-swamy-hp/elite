@@ -24,3 +24,7 @@ This project includes below functionalities.
 5. Injected Angular dynamic components inside javascript pop ups.
 6  Handled memory issue of dynamically injected angular components.
 7. Cluster image will changes based on the Zoom level of map and also the formation of cluster is dynamic based on zoom level.
+
+#SpringBoot-microservice project
+1. In this project, I have developed sample micro service application which performs CRUD operations.
+2. I have used SpringBoot, JPA, H2 DB
