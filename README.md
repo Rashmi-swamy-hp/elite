@@ -25,6 +25,10 @@ This project includes below functionalities.
 6  Handled memory issue of dynamically injected angular components.
 7. Cluster image will changes based on the Zoom level of map and also the formation of cluster is dynamic based on zoom level.
 
-#SpringBoot-microservice project
+# springBoot-microservice Project
 1. In this project, I have developed sample micro service application which performs CRUD operations.
-2. I have used SpringBoot, JPA, H2 DB
+2. Tech stack used used SpringBoot, JPA, H2 DB
+
+# springBoot-file-upload-download Project
+1. This project is about file upload and download featues example.
+2. Tech stack used SpringBoot web microservice, thymeleaf.
